@@ -82,9 +82,6 @@ def suggest_words(attempts):
 
 
 def handler(event, context):
-    LOGGER.info(f'Event Object: {event}')
-    LOGGER.info(f'Context Object: {context}')
-    LOGGER.info(f'BODY:{event.get("body")}')
     body_payload = json.loads(event.get("body"))
     LOGGER.info(f'PAYLOAD:{body_payload}')
     LOGGER.info(f'ITEMS:{body_payload.get("items")}')

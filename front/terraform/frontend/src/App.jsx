@@ -113,15 +113,6 @@ class App extends React.Component {
   }
 }
 
-class SuggestedWords extends React.Component {
-  render() {
-    return (
-        <div>
-          {this.props.wordblob}
-        </div>
-      );
-  }
-}
 
 class QueryList extends React.Component {
   render() {
