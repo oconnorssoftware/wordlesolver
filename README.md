@@ -1,6 +1,7 @@
 # wordlesolver
 
-![alt text](app_image.png?raw=true "App screenshot")
+![alt text](images/app_image.png?raw=true "App screenshot")
+![alt text](images/front_end_stack.png?raw=true "App screenshot")
 
 To Deploy Backend:
 ```
