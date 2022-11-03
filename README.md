@@ -6,7 +6,7 @@ GUI Stack:
 ![alt text](images/front_end_stack.png?raw=true "Frontend Stack")
 
 
-Backend Stack
+Backend Stack:
 ![alt text](images/back_end_stack.png?raw=true "Backend Stack")
 To Deploy Backend:
 ```
