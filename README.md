@@ -8,6 +8,8 @@ GUI Stack:
 
 Backend Stack:
 ![alt text](images/back_end_stack.png?raw=true "Backend Stack")
+
+
 To Deploy Backend:
 ```
 $cd back/terraform/
